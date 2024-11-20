@@ -67,6 +67,6 @@ https://github.com/OlegBondarev33/git_19/commit/72dc8a0aa271d35606c4d42aa3d64d43
 7. Сделайте пуш в основной ветке.
 8. Не удаляйте ветку dev.
 
-
+https://github.com/OlegBondarev33/GIT_20.11.24/network
 
 
