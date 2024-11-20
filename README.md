@@ -52,7 +52,7 @@ https://github.com/OlegBondarev33/git_19/commit/72dc8a0aa271d35606c4d42aa3d64d43
 3. Напишите правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.
 4. Сделайте коммит и пуш.
 
-
+https://github.com/OlegBondarev33/GIT_20.11.24/blob/main/.gitignore
 
 ### Задание 3
 
